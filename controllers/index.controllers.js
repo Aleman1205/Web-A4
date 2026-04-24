@@ -1,7 +1,8 @@
 const home = (req, res) => {
   res.json({
     message: "API REST lista",
-    endpoints: ["/", "/marco", "/ping", "/users", "/login"],
+    endpoints: ["/", "/marco", "/ping", "/users", "/login", "/app/"],
+    frontend: "/app/",
   });
 };
 

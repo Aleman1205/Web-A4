@@ -1,4 +1,20 @@
 {
-  "users": [],
-  "login": []
+  "users": [
+    {
+      "id": 1,
+      "name": "jose",
+      "email": "jose@gmail.com",
+      "createdAt": "2026-04-24T22:33:40.903Z",
+      "updatedAt": "2026-04-24T22:33:40.903Z"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "aleman",
+      "passwordHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "createdAt": "2026-04-24T22:31:13.887Z",
+      "updatedAt": "2026-04-24T22:31:13.887Z"
+    }
+  ]
 }
